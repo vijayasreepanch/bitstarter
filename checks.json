@@ -1,0 +1,17 @@
+["h1",
+ ".navigation",
+ "div.logo",
+ "div.blank",
+ "div.about",
+ "div div.heading",
+ "div div.subheading",
+ "div div.pitch",
+ "div div div.video",
+ "div div div div.thermometer",
+ "div div div div.order",
+ "div div div div.social",
+ "div div.section1",
+ "div div.section2",
+ "div div.faq",
+ "div div.footer"
+]
