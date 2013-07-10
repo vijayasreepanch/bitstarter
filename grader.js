@@ -26,7 +26,7 @@ var program = require('commander');
 var cheerio = require('cheerio');
 var HTMLFILE_DEFAULT = "index.html";
 var CHECKSFILE_DEFAULT = "checks.json";
-var INPUTURL_DEFAULT ="http://damp-springs-8443.herokuapp.com/";
+var INPUTURL_DEFAULT ="http://damp-springs-8443.herokuapp.com";
 
 var assertFileExists = function(infile) {
     var instr = infile.toString();
